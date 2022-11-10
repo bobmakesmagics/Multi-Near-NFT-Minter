@@ -2,7 +2,6 @@
 # Developer note: near.gitignore will be renamed to .gitignore upon project creation
 # dependencies
 node_modules
-integration-tests
 package-lock.json
 /.pnp
 .pnp.js
